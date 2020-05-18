@@ -58,7 +58,8 @@ footer {
 }
 
 .footer-link,
-.footer-link:visited {
+.footer-link:visited,
+.footer-link:active {
     color: #ffffff;
     text-decoration: none;
 }
