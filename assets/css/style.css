@@ -57,6 +57,15 @@ footer {
     width: 100%;
 }
 
+.footer-link {
+    color: #ffffff;
+}
+
+.footer-link:hover {
+    color: #cccccc;
+    text-decoration: none;
+}
+
 #submit-btn {
     background-color: #4aaaa5!important;
     border-color: #4aaaa5!important;
