@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+  }
 
 body {
     background-image: url(../images/background.png);
@@ -17,6 +20,7 @@ body {
 #logo {
     background-color: #4aaaa5;
     color: #ffffff;
+    margin-left: -16px;
     /* font-size: 24px; */
     font-weight: 600;
     padding: 15px;
