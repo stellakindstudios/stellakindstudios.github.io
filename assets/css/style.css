@@ -57,8 +57,10 @@ footer {
     width: 100%;
 }
 
-.footer-link {
+.footer-link,
+.footer-link:visited {
     color: #ffffff;
+    text-decoration: none;
 }
 
 .footer-link:hover {
